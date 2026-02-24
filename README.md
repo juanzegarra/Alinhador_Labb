@@ -14,3 +14,9 @@ Antes de rodar, instalar PyQt6:
 ```
 pip install PyQt6
 ```
+
+Depois só rodar no diretório do programa
+
+```
+python3 gui_aln_labb.py
+```
